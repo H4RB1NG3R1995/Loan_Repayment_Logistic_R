@@ -26,5 +26,5 @@ For this classification problem, Binary Logistic Regression Model is used for pr
 
 Significant variables:
 
-Positively significant: Purpose (Small Business), installment, revol.bal, inq.last.6mths
-Negatively Significant: Purpose (Credit Card, Debt_consolidation), log.annual.inc, fico
+1. Positively significant: Purpose (Small Business), installment, revol.bal, inq.last.6mths
+2. Negatively Significant: Purpose (Credit Card, Debt_consolidation), log.annual.inc, fico
